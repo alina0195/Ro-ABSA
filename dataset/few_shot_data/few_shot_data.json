@@ -1,0 +1,403 @@
+﻿[
+    {
+        "body": "preturi foarte mari la unele produse - un hanorac yoga 99.90 lei, caciula 60 lei, personal present doar la casa",
+        "category_aspect": [
+            {
+                "end": 80,
+                "text": "preturi foarte mari la unele produse - un hanorac yoga 99.90 lei, caciula 60 lei",
+                "start": 0,
+                "labels": [
+                    "price"
+                ]
+            },
+            {
+                "end": 111,
+                "text": "personal present doar la casa",
+                "start": 82,
+                "labels": [
+                    "staff availability"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Hello everyone, so I\u00b4ve had this bike for about 4 years now. It has been amazing for the money that it has costed me. I\u00b4ve used it for so much more than the ocoasional trail riding. I have used it for small jumps and very gnarly descents. After the rear derailier was snaged of I upgraded the whole drivetrain and put new tyers and rear wheel. The bike is stupid realiable, I really thought the frame would fail but after all these years of hard abuse it\u00b4s still going strong!So get this bike if you\u00b4re just starting out or better yet get the 520 if you think you are going to use it more often.Great bikes these B\u00b4twins",
+        "category_aspect": [
+            {
+                "end": 620,
+                "text": "Hello everyone, so I\u00b4ve had this bike for about 4 years now. It has been amazing for the money that it has costed me. I\u00b4ve used it for so much more than the ocoasional trail riding. I have used it for small jumps and very gnarly descents. After the rear derailier was snaged of I upgraded the whole drivetrain and put new tyers and rear wheel. The bike is stupid realiable, I really thought the frame would fail but after all these years of hard abuse it\u00b4s still going strong!So get this bike if you\u00b4re just starting out or better yet get the 520 if you think you are going to use it more often.Great bikes these B\u00b4twins",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "sa astepti doua s\u0103pt\u0103m\u00e2ni pentru o bicicleta care zic ei ca a fost comandata si nu a venit deci trage\u021bi singuri o concluzie, lipsa respect fata de client..",
+        "category_aspect": [
+            {
+                "end": 90,
+                "text": "sa astepti doua s\u0103pt\u0103m\u00e2ni pentru o bicicleta care zic ei ca a fost comandata si nu a venit",
+                "start": 0,
+                "labels": [
+                    "delivery"
+                ]
+            },
+            {
+                "end": 153,
+                "text": "sa astepti doua s\u0103pt\u0103m\u00e2ni pentru o bicicleta care zic ei ca a fost comandata si nu a venit deci trage\u021bi singuri o concluzie, lipsa respect fata de client",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am dat comanda de pe site si au venit produsele, sunt multumit. Sunt nemultumit de faptul ca la crearea contului nu se valideaza adresa de email, si astfel am ajuns sa primesc informatii despre comenzi facute de altcineva pe o adresa de email care imi apartine si cu care nu eram inregistrat pe siteul Decathlon. Am trimis mail cu aceasta problema si inca nu mi s-a raspuns...",
+        "category_aspect": [
+            {
+                "end": 312,
+                "text": "Sunt nemultumit de faptul ca la crearea contului nu se valideaza adresa de email, si astfel am ajuns sa primesc informatii despre comenzi facute de altcineva pe o adresa de email care imi apartine si cu care nu eram inregistrat pe siteul Decathlon.",
+                "start": 64,
+                "labels": [
+                    "tech support"
+                ]
+            },
+            {
+                "end": 63,
+                "text": "Am dat comanda de pe site si au venit produsele, sunt multumit.",
+                "start": 0,
+                "labels": [
+                    "delivery"
+                ]
+            },
+            {
+                "end": 376,
+                "text": "Am trimis mail cu aceasta problema si inca nu mi s-a raspuns...",
+                "start": 313,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Vizita la magazinul din Berceni m-a lasat placut impresionat, de asemenea mi-a placut foarte mult amabilitatea, disponibilitatea si profesionalismul de care a dat dovada dna Bucur.Multumesc",
+        "category_aspect": [
+            {
+                "end": 180,
+                "text": "de asemenea mi-a placut foarte mult amabilitatea, disponibilitatea si profesionalismul de care a dat dovada dna Bucur.",
+                "start": 62,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 180,
+                "text": "de asemenea mi-a placut foarte mult amabilitatea, disponibilitatea si profesionalismul de care a dat dovada dna Bucur.",
+                "start": 62,
+                "labels": [
+                    "staff availability"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Reduceri la BICICLET\u0102 PLIABIL\u0102 BFOLD 300. \u00een tari mult mai bogate dec\u00e2t Romania.  C\u00e2teva exemple simplu de verificat, la un clic distanta... decathlon Fran\u021ba 120 euro, decathlon Austria 120 euro, decathlon Germania 120 euro, si lista continua... decathlon Romania 160 euro. Concluzia ???...",
+        "category_aspect": [
+            {
+                "end": 290,
+                "text": "Reduceri la BICICLET\u0102 PLIABIL\u0102 BFOLD 300. \u00een tari mult mai bogate dec\u00e2t Romania. C\u00e2teva exemple simplu de verificat, la un clic distanta... decathlon Fran\u021ba 120 euro, decathlon Austria 120 euro, decathlon Germania 120 euro, si lista continua... decathlon Romania 160 euro. Concluzia ???...",
+                "start": 0,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Buna ziua,am cumparat mingia acum 4 zile ,dupa tot acest timp s-a descusut un colt al peticelui.",
+        "category_aspect": [
+            {
+                "end": 96,
+                "text": "Buna ziua,am cumparat mingia acum 4 zile ,dupa tot acest timp s-a descusut un colt al peticelui.",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Personal care sa se ocupe de copii, sa nu devina haotici",
+        "category_aspect": [
+            {
+                "end": 56,
+                "text": "Personal care sa se ocupe de copii, sa nu devina haotici",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Sunt foarte putine magazine in Brasov care sa dispuna de astfel de articole sportive. As sugera insa o varietate mai mare de produse in special de incaltaminte de iarna sau diferite articole de imbracaminte.",
+        "category_aspect": [
+            {
+                "end": 85,
+                "text": "Sunt foarte putine magazine in Brasov care sa dispuna de astfel de articole sportive.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 207,
+                "text": "As sugera insa o varietate mai mare de produse in special de incaltaminte de iarna sau diferite articole de imbracaminte.",
+                "start": 86,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Promo\u021bii mai bine comunicate \u0219i g\u00e2ndite. Eliminate de la raft produsele slabe calitativ.",
+        "category_aspect": [
+            {
+                "end": 40,
+                "text": "Promo\u021bii mai bine comunicate \u0219i g\u00e2ndite.",
+                "start": 0,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Personal amabil, rapid, organizare foarte buna a magazinului! Punctul de ridicare livrari e situat fix langa intrare/iesire ceea ce face accesul la el foarte facil.",
+        "category_aspect": [
+            {
+                "end": 23,
+                "text": "Personal amabil, rapid,",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 164,
+                "text": "organizare foarte buna a magazinului! Punctul de ridicare livrari e situat fix langa intrare/iesire ceea ce face accesul la el foarte facil.",
+                "start": 24,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "AM UITAT PE UN RAFT IN MAGAZIN PORTOFELUL CU 700 RON SI DUPA APROXIMATIV 3 ORE L-AM GASIT LA CASA , FARA SA LIPSEASCA NIMIC DIN EL.....:)",
+        "category_aspect": [
+            {
+                "end": 130,
+                "text": "AM UITAT PE UN RAFT IN MAGAZIN PORTOFELUL CU 700 RON SI DUPA APROXIMATIV 3 ORE L-AM GASIT LA CASA , FARA SA LIPSEASCA NIMIC DIN EL",
+                "start": 0,
+                "labels": [
+                    "security"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Vin destul de des \u00een magazin av\u00e2nd \u00een vedere ca cel mai apropiat este la cca 90km de loc mea",
+        "category_aspect": [
+            {
+                "end": 92,
+                "text": "Vin destul de des \u00een magazin av\u00e2nd \u00een vedere ca cel mai apropiat este la cca 90km de loc mea",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "Un produs foarte bun pentru pretul lui. Asigura protectia gatului si a cefei la temperaturi scazute si pe timp de vant. Recomand!",
+        "category_aspect": [
+            {
+                "end": 39,
+                "text": "Un produs foarte bun pentru pretul lui.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 39,
+                "text": "Un produs foarte bun pentru pretul lui.",
+                "start": 0,
+                "labels": [
+                    "price"
+                ]
+            },
+            {
+                "end": 39,
+                "text": "Un produs foarte bun pentru pretul lui.",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Am achizitionat acum aproximativ trei luni un ciclocomputer care s-a defectat. Dupa ce s-a incercat repararea lui de catre un baiat care lucreaza la reparatii/intretinere biciclete si a fost constatata defectiunea, am fost indrumat catre \"\"retururi\"\". Am avut de ales intre a lua alt ciclocomputer sau a primi suma pe care am platit-o la achizitionare. Am optat pentru altul ( modelul initial nu mai exista la vanzare). Deoarece acesta era mai ieftin, mi-a fost restituita diferenta de bani.Super pozitiva impresia, avand in vedere ca m-am prezentat la magazin doar cu bicicleta/ciclocomputerul, fara bon fiscal sau garantie. Este adevarat, am fost gasit in baza de date datorita adresei de email.",
+        "category_aspect": [
+            {
+                "end": 78,
+                "text": "Am achizitionat acum aproximativ trei luni un ciclocomputer care s-a defectat.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 625,
+                "text": "Super pozitiva impresia, avand in vedere ca m-am prezentat la magazin doar cu bicicleta/ciclocomputerul, fara bon fiscal sau garantie.",
+                "start": 491,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 251,
+                "text": "Dupa ce s-a incercat repararea lui de catre un baiat care lucreaza la reparatii/intretinere biciclete si a fost constatata defectiunea, am fost indrumat catre \"\"retururi\"\".",
+                "start": 79,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 491,
+                "text": "Am avut de ales intre a lua alt ciclocomputer sau a primi suma pe care am platit-o la achizitionare. Am optat pentru altul ( modelul initial nu mai exista la vanzare). Deoarece acesta era mai ieftin, mi-a fost restituita diferenta de bani.",
+                "start": 252,
+                "labels": [
+                    "return warranty"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive",
+            "Neutral",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Fiti ma concreti produse, preturi ca nu coincide ceea ce este la raft cu ceea ce este la casa. Si o mai buna organizare a staff-ului asupra sectiilor de care sunt responsabili. Dezordine maxima asupra produselor.",
+        "category_aspect": [
+            {
+                "end": 212,
+                "text": "Fiti ma concreti produse, preturi ca nu coincide ceea ce este la raft cu ceea ce este la casa. Si o mai buna organizare a staff-ului asupra sectiilor de care sunt responsabili. Dezordine maxima asupra produselor.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "M-am sim\u021bit bine. Temperatura potrivit\u0103. Lichide pentru hidratare. Personalul amabil.",
+        "category_aspect": [
+            {
+                "end": 85,
+                "text": "Personalul amabil.",
+                "start": 67,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 66,
+                "text": "M-am sim\u021bit bine. Temperatura potrivit\u0103. Lichide pentru hidratare.",
+                "start": 0,
+                "labels": [
+                    "environment"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Siteul online nu are stocuile actualizate in timp real. Am facut doua comenzi online si la ambele am aflat ulterior ca produsele nu sunt in stoc.Am pierdut mai mult timp sa gasesc produsele in stoc pe site decat sa merg la magazin.....Nu exista filtre pt. afisare produse in stoc. Am intrat pe fiecare produs in parte ca sa vad daca-l pot cumpara. Si surpriza....am facut comanda  si ulterior am aflat ca produsele nu sunt in magazin...Pierdere de vreme!!!!!",
+        "category_aspect": [
+            {
+                "end": 458,
+                "text": "Siteul online nu are stocuile actualizate in timp real. Am facut doua comenzi online si la ambele am aflat ulterior ca produsele nu sunt in stoc.Am pierdut mai mult timp sa gasesc produsele in stoc pe site decat sa merg la magazin.....Nu exista filtre pt. afisare produse in stoc. Am intrat pe fiecare produs in parte ca sa vad daca-l pot cumpara. Si surpriza....am facut comanda si ulterior am aflat ca produsele nu sunt in magazin...Pierdere de vreme!!!!!",
+                "start": 0,
+                "labels": [
+                    "tech support"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Haos total in week-end. In loc sa faci cumparaturi trebuie sa te feresti de copii rasfatati si prost crescuti care se plimba prin magazin cu biciclete, role, etc. Cred ca politica de evaluare a produselor de catre clienti este prea permisiva si ingreuneaza accesul cumparatorilor reali. Mentionez ca am copil de 2 ani si sotie gravida si ne-a fost aproape imposibil sa facem cumparaturi in acest imens loc de joaca asa ca am renuntat dupa 20 de minute, plecand doar cu cateva maruntisuri.",
+        "category_aspect": [
+            {
+                "end": 488,
+                "text": "Haos total in week-end. In loc sa faci cumparaturi trebuie sa te feresti de copii rasfatati si prost crescuti care se plimba prin magazin cu biciclete, role, etc. Cred ca politica de evaluare a produselor de catre clienti este prea permisiva si ingreuneaza accesul cumparatorilor reali. Mentionez ca am copil de 2 ani si sotie gravida si ne-a fost aproape imposibil sa facem cumparaturi in acest imens loc de joaca asa ca am renuntat dupa 20 de minute, plecand doar cu cateva maruntisuri.",
+                "start": 0,
+                "labels": [
+                    "environment"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    }
+]

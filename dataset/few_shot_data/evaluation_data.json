@@ -1,0 +1,2129 @@
+[
+    {
+        "body": "Nu ratez niciodata sa intru in magazin ori de cate ori am drum la Oradea.",
+        "category_aspect": [
+            {
+                "end": 73,
+                "text": "Nu ratez niciodata sa intru in magazin ori de cate ori am drum la Oradea.",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "Timpul de livrare chiar mai scurt dec\u00e2t cel anun\u021bat pe site.  Probleme au fost la plasarea comenzii deoarece site-ul a func\u021bionat cam greu.",
+        "category_aspect": [
+            {
+                "end": 60,
+                "text": "Timpul de livrare chiar mai scurt dec\u00e2t cel anun\u021bat pe site.",
+                "start": 0,
+                "labels": [
+                    "delivery"
+                ]
+            },
+            {
+                "end": 139,
+                "text": "Probleme au fost la plasarea comenzii deoarece site-ul a func\u021bionat cam greu.",
+                "start": 62,
+                "labels": [
+                    "tech support"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "O bicicleta excelenta chiar si pentru \u00eencep\u0103tori. Se pliaz\u0103 rapid \u0219i nu ocup\u0103 loc mult.",
+        "category_aspect": [
+            {
+                "end": 87,
+                "text": "O bicicleta excelenta chiar si pentru \u00eencep\u0103tori. Se pliaz\u0103 rapid \u0219i nu ocup\u0103 loc mult.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "foarte comozi si talpa foarte rezistenta. Recomand pentru uz intens.",
+        "category_aspect": [
+            {
+                "end": 68,
+                "text": "foarte comozi si talpa foarte rezistenta. Recomand pentru uz intens.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Sunt foarte multumit de produs. Am cuparat mai multe modeled de camuflaj.",
+        "category_aspect": [
+            {
+                "end": 31,
+                "text": "Sunt foarte multumit de produs.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Bine aprovizionat, produse diverse cu mai multe sugestii pentru ceea ce iti doresti. Propun sa existe si un personal competent care sa-ti ofere eventuale informatii suplimentare.",
+        "category_aspect": [
+            {
+                "end": 84,
+                "text": "Bine aprovizionat, produse diverse cu mai multe sugestii pentru ceea ce iti doresti.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 178,
+                "text": "Propun sa existe si un personal competent care sa-ti ofere eventuale informatii suplimentare.",
+                "start": 85,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "aceeasi veche poveste care mie imi displace profund: copii nesupravegheati care se dau prin magazin cu toate obiectele care au cel putin o roata, deranjand lumea care a venit la MAGAZIN sa CUMPERE. cred ca ar trebui sa va schimbati filozofia in ce priveste folosirea in interior a produselor scoase la vanzare. cum ar fi sa trag cu arcul prin magazin, sa arunc cu mingea medicinala de pe un rand pe altul sau mai stiu eu ce absurditati...vrei sa probezi bicicleta, role, board, ori mai stiu eu ce, iesi afara, nene, sau intr-un spatiu in care sa nu deranjezi pe ceilalti...nemaivorbind de faptul ca de cele mai multe ori, parintii nu au nici un gand sa cumpere bicicleta, trotineta, ...eta, cu care se da plodul prin magazin, din lipsa de ocupatie si pentru ca i se permite.probabil intr-o zi cineva exasperat va plezni unul din copiii aia dezlegati...in rest, toata stima pentru treaba pe care o faceti acolo.",
+        "category_aspect": [
+            {
+                "end": 852,
+                "text": "aceeasi veche poveste care mie imi displace profund: copii nesupravegheati care se dau prin magazin cu toate obiectele care au cel putin o roata, deranjand lumea care a venit la MAGAZIN sa CUMPERE. cred ca ar trebui sa va schimbati filozofia in ce priveste folosirea in interior a produselor scoase la vanzare. cum ar fi sa trag cu arcul prin magazin, sa arunc cu mingea medicinala de pe un rand pe altul sau mai stiu eu ce absurditati...vrei sa probezi bicicleta, role, board, ori mai stiu eu ce, iesi afara, nene, sau intr-un spatiu in care sa nu deranjezi pe ceilalti...nemaivorbind de faptul ca de cele mai multe ori, parintii nu au nici un gand sa cumpere bicicleta, trotineta, ...eta, cu care se da plodul prin magazin, din lipsa de ocupatie si pentru ca i se permite.probabil intr-o zi cineva exasperat va plezni unul din copiii aia dezlegati...",
+                "start": 0,
+                "labels": [
+                    "environment"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Ma a\u0219tept\u0103m la reduceri mai mari la produsele pt sezonul de vara",
+        "category_aspect": [
+            {
+                "end": 64,
+                "text": "Ma a\u0219tept\u0103m la reduceri mai mari la produsele pt sezonul de vara",
+                "start": 0,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Imi  place sa fac cumparaturi din acest magazin. Personalul este amabil vine cu informatii si detalii precise, fie cand am comunicat pe e mail, fie direct in magazin. Atmosfera e degajata...preturi afisate, poti incerca produsele in voie fara sa fii stresat de vanzator cu diverse remarci. Cabinele de proba sunt doar intr-un singur loc vis-a-vis de suprafata mare a magazinului  - si poate ca daca ar fi orientate in 2 puncte diametral opuse ar fi mai ok. Gama de produse este diversificata si chiar de calitate. Va doresc succes!",
+        "category_aspect": [
+            {
+                "end": 166,
+                "text": "Personalul este amabil vine cu informatii si detalii precise, fie cand am comunicat pe e mail, fie direct in magazin.",
+                "start": 49,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 187,
+                "text": "Atmosfera e degajata",
+                "start": 167,
+                "labels": [
+                    "environment"
+                ]
+            },
+            {
+                "end": 205,
+                "text": "preturi afisate",
+                "start": 190,
+                "labels": [
+                    "shop organization"
+                ]
+            },
+            {
+                "end": 288,
+                "text": "poti incerca produsele in voie fara sa fii stresat de vanzator cu diverse remarci",
+                "start": 207,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 456,
+                "text": "Cabinele de proba sunt doar intr-un singur loc vis-a-vis de suprafata mare a magazinului - si poate ca daca ar fi orientate in 2 puncte diametral opuse ar fi mai ok.",
+                "start": 290,
+                "labels": [
+                    "shop organization"
+                ]
+            },
+            {
+                "end": 491,
+                "text": "Gama de produse este diversificata",
+                "start": 457,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 512,
+                "text": "si chiar de calitate",
+                "start": 492,
+                "labels": [
+                    "quality"
+                ]
+            },
+            {
+                "end": 237,
+                "text": "poti incerca produsele in voie",
+                "start": 207,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive",
+            "Positive",
+            "Positive",
+            "Neutral",
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "este bine asa-nu am pareri care sa va ajute sau sa imbunatateasca ceva-nu vad ce ar putea fi imbunatatit",
+        "category_aspect": [
+            {
+                "end": 104,
+                "text": "este bine asa-nu am pareri care sa va ajute sau sa imbunatateasca ceva-nu vad ce ar putea fi imbunatatit",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "Sunt produse bune care se scot de la vanzare si nici nu se mai aduc,  pe care eu personal le-as mentine la raft. Ex. cizme imblanite.",
+        "category_aspect": [
+            {
+                "end": 112,
+                "text": "Sunt produse bune care se scot de la vanzare si nici nu se mai aduc, pe care eu personal le-as mentine la raft.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Daca s-ar putea face magazinul si la Deva ar fi minunat!!!",
+        "category_aspect": [
+            {
+                "end": 58,
+                "text": "Daca s-ar putea face magazinul si la Deva ar fi minunat!!!",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "Va rog sa aduceti in magazinul din Tg.Mures articole de echitatie ( in special pt copii).",
+        "category_aspect": [
+            {
+                "end": 89,
+                "text": "Va rog sa aduceti in magazinul din Tg.Mures articole de echitatie ( in special pt copii).",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Multe produse de catalog lipsesc din stocul magazinului. Prin comparatie, magazinul din Cluj e mult mai diversificat in oferta.",
+        "category_aspect": [
+            {
+                "end": 56,
+                "text": "Multe produse de catalog lipsesc din stocul magazinului.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Ft bun pt echipamentul de sport si nu numai. Rezistent.",
+        "category_aspect": [
+            {
+                "end": 55,
+                "text": "Ft bun pt echipamentul de sport si nu numai. Rezistent.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 55,
+                "text": "Ft bun pt echipamentul de sport si nu numai. Rezistent.",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "M-am bucurat la vederea cabinelor de proba care sunt mult mai decente decat cele din Theodor Pallady.",
+        "category_aspect": [
+            {
+                "end": 101,
+                "text": "M-am bucurat la vederea cabinelor de proba care sunt mult mai decente decat cele din Theodor Pallady.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "In magazinul din Sibiu, ar fi ok daca s-ar putea face programari pentru atelierul de biciclete (schimbat piese, revizie biciclete, etc). De multe ori sunt aglomerate si necesita programari pe alte zile (nu pe loc). In rest, toate bune, sunt satisfacut de calitatea produselor si serviciilor decathlon, in special de amabilitatea angajatilor.",
+        "category_aspect": [
+            {
+                "end": 214,
+                "text": "In magazinul din Sibiu, ar fi ok daca s-ar putea face programari pentru atelierul de biciclete (schimbat piese, revizie biciclete, etc). De multe ori sunt aglomerate si necesita programari pe alte zile (nu pe loc).",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 341,
+                "text": "In rest, toate bune, sunt satisfacut de calitatea produselor si serviciilor decathlon, in special de amabilitatea angajatilor.",
+                "start": 215,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 341,
+                "text": "In rest, toate bune, sunt satisfacut de calitatea produselor si serviciilor decathlon, in special de amabilitatea angajatilor.",
+                "start": 215,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 341,
+                "text": "In rest, toate bune, sunt satisfacut de calitatea produselor si serviciilor decathlon, in special de amabilitatea angajatilor.",
+                "start": 215,
+                "labels": [
+                    "quality"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "nu are nici macar un pic de logica ASEZAREA PRODUSELOR , un real talmes - balmes",
+        "category_aspect": [
+            {
+                "end": 80,
+                "text": "nu are nici macar un pic de logica ASEZAREA PRODUSELOR , un real talmes - balmes",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Este al doilea rucsac pe care-l cumpar. Parerea mea este ca merita cumparat. L-am folosit si la \"\"munci\"\" grele si a rezistat cu brio (vorbesc de primul rucsac, pe care il port si astazi cu mare placere). Nu s-a descusut, rupt sau deformat. Este comod si rezistent. Singurul minus pe care-l vad eu, este ca mai era loc de inca un buzunar, cel putin din punctul meu de vedere.MERITA!",
+        "category_aspect": [
+            {
+                "end": 375,
+                "text": "Singurul minus pe care-l vad eu, este ca mai era loc de inca un buzunar, cel putin din punctul meu de vedere.",
+                "start": 266,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 265,
+                "text": "Este al doilea rucsac pe care-l cumpar. Parerea mea este ca merita cumparat. L-am folosit si la \"\"munci\"\" grele si a rezistat cu brio (vorbesc de primul rucsac, pe care il port si astazi cu mare placere). Nu s-a descusut, rupt sau deformat. Este comod si rezistent.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive"
+        ]
+    },
+    {
+        "body": "General vorbind , varietatea si accesibilitatea de produse disponibile de magazin este una extraordinara , cu reduceri variate cat si o gama variata de accesorii si incaltaminte sport.",
+        "category_aspect": [
+            {
+                "end": 184,
+                "text": "General vorbind , varietatea si accesibilitatea de produse disponibile de magazin este una extraordinara , cu reduceri variate cat si o gama variata de accesorii si incaltaminte sport.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 126,
+                "text": "reduceri variate",
+                "start": 110,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Am folosit \u015fi la ghete \u015fi la costum de schi \u015fi e foarte eficient . Toate r\u0103m\u00e2n uscate , nu se \u00eenbib\u0103 cu ap\u0103 .",
+        "category_aspect": [
+            {
+                "end": 66,
+                "text": "Am folosit \u015fi la ghete \u015fi la costum de schi \u015fi e foarte eficient .",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "As dori sa semnalez faptul ca lipsesc articole foarte cautate, specifice sezonului- ex sandale",
+        "category_aspect": [
+            {
+                "end": 82,
+                "text": "As dori sa semnalez faptul ca lipsesc articole foarte cautate, specifice sezonului",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Preluarea comenzi foarte rapid.Expedierea produsului in timp record.Echipa de operatori foarte faini in acordarea de detalii despre produsul comandat.Conformitatea produsului 100% .Bravo voua si succes in continuare.Multumiri intregi echipe Decathlon",
+        "category_aspect": [
+            {
+                "end": 68,
+                "text": "Expedierea produsului in timp record.",
+                "start": 31,
+                "labels": [
+                    "delivery"
+                ]
+            },
+            {
+                "end": 150,
+                "text": "Echipa de operatori foarte faini in acordarea de detalii despre produsul comandat.",
+                "start": 68,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 179,
+                "text": "Conformitatea produsului 100%",
+                "start": 150,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 31,
+                "text": "Preluarea comenzi foarte rapid.",
+                "start": 0,
+                "labels": [
+                    "tech support"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "A fost fain, am gasit ceea ce-mi doream, am facut cadoul perfect, doar ca a fost foooarte aglomerat. Ar trebui totusi sa fie un loc special pentru incercarea aparatelor pt cei mici, multi parinti ii lasau de capul lor si in aglomerarea maxima se puteau produce accidente...",
+        "category_aspect": [
+            {
+                "end": 270,
+                "text": "a fost foooarte aglomerat. Ar trebui totusi sa fie un loc special pentru incercarea aparatelor pt cei mici, multi parinti ii lasau de capul lor si in aglomerarea maxima se puteau produce accidente",
+                "start": 74,
+                "labels": [
+                    "environment"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "L-am purtat pe munte si a fost destul de calduros.",
+        "category_aspect": [
+            {
+                "end": 50,
+                "text": "L-am purtat pe munte si a fost destul de calduros.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "atmosfer ok, personal amabil, putin mai multa atentie la disponibilitatea articolelor pe masuri.",
+        "category_aspect": [
+            {
+                "end": 11,
+                "text": "atmosfer ok",
+                "start": 0,
+                "labels": [
+                    "environment"
+                ]
+            },
+            {
+                "end": 28,
+                "text": "personal amabil",
+                "start": 13,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 95,
+                "text": "putin mai multa atentie la disponibilitatea articolelor pe masuri",
+                "start": 30,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Materialul este ipermeabil, imi place ideea fleece-ului detasabil. Intr-adevar in partea de sus, la gat este cam rigida. Gluga nu cade pe ochi si nu este nevoie sa o tragi pe spate din 10 in 10 secunde.  Este calduroasa si frumoasa.",
+        "category_aspect": [
+            {
+                "end": 66,
+                "text": "Materialul este ipermeabil, imi place ideea fleece-ului detasabil.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 120,
+                "text": "Intr-adevar in partea de sus, la gat este cam rigida.",
+                "start": 67,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 232,
+                "text": "Gluga nu cade pe ochi si nu este nevoie sa o tragi pe spate din 10 in 10 secunde. Este calduroasa si frumoasa.",
+                "start": 121,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Mi-a placut ca sunt suficient de multe case active astfel incat sa nu fii nevoit sa astepti foarte mult la coada.",
+        "category_aspect": [
+            {
+                "end": 113,
+                "text": "Mi-a placut ca sunt suficient de multe case active astfel incat sa nu fii nevoit sa astepti foarte mult la coada.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Vroiam sa mi se schimbe firele rupte de la racheta, insa am fost instiintata de faptul ca la Oradea nu exista astfel de serviciu din partea Decathlon, doar la Cluj...",
+        "category_aspect": [
+            {
+                "end": 166,
+                "text": "Vroiam sa mi se schimbe firele rupte de la racheta, insa am fost instiintata de faptul ca la Oradea nu exista astfel de serviciu din partea Decathlon, doar la Cluj...",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Ii recomand cu placere ! Super confortabili atat pentru mers cat si pentru alergare!!",
+        "category_aspect": [
+            {
+                "end": 85,
+                "text": "Ii recomand cu placere ! Super confortabili atat pentru mers cat si pentru alergare!!",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Proces de prelucrare al comenzilor destul de lung, fata de concurenta.",
+        "category_aspect": [
+            {
+                "end": 70,
+                "text": "Proces de prelucrare al comenzilor destul de lung, fata de concurenta.",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "este un produs de calitate si foarte bun din punct de vedere al pretului. este foarte calduros si este un material moale.",
+        "category_aspect": [
+            {
+                "end": 26,
+                "text": "este un produs de calitate",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            },
+            {
+                "end": 72,
+                "text": "foarte bun din punct de vedere al pretului",
+                "start": 30,
+                "labels": [
+                    "price"
+                ]
+            },
+            {
+                "end": 120,
+                "text": "este foarte calduros si este un material moale",
+                "start": 74,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "totul a fost ok: personalul foarte amabil, desi copiii mei i-au inebunit de cap sa-si vada bicicletele montate rapidamente, angajatii s-au comportat profesionist, impecabil.Un singur lucru m-a naucit: m-a nucit de cap regula de la casa cu datul produselor unul cate unul. Ca daca le puneam pe toate, gramada, in acea cuva (ce si scana automat) se scanau de mai multe dati. Asta este singurul aspect aiurea (intrasem cu un carucior voluminos pt ca aveam multe de cumparat si trebuia sa inmanez produs cu produs sa fie scanat, si nu sa le pun de-a valma in acea cuva de unde sa le fi luat pe rand casierul, cum imi imaginam ca-i scopul acelei cuve)",
+        "category_aspect": [
+            {
+                "end": 173,
+                "text": "totul a fost ok: personalul foarte amabil, desi copiii mei i-au inebunit de cap sa-si vada bicicletele montate rapidamente, angajatii s-au comportat profesionist, impecabil.",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 646,
+                "text": "Un singur lucru m-a naucit: m-a nucit de cap regula de la casa cu datul produselor unul cate unul. Ca daca le puneam pe toate, gramada, in acea cuva (ce si scana automat) se scanau de mai multe dati. Asta este singurul aspect aiurea (intrasem cu un carucior voluminos pt ca aveam multe de cumparat si trebuia sa inmanez produs cu produs sa fie scanat, si nu sa le pun de-a valma in acea cuva de unde sa le fi luat pe rand casierul, cum imi imaginam ca-i scopul acelei cuve)",
+                "start": 173,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Sa lega\u021bi mai bine papucii \u00eentre ei am c\u0103utat 20 min perechea!",
+        "category_aspect": [
+            {
+                "end": 62,
+                "text": "Sa lega\u021bi mai bine papucii \u00eentre ei am c\u0103utat 20 min perechea!",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Rezistenta rotiilor este una buna, rulmentii sunt de o calitate superioara, iar comfortul si stabilitatea pe care o ofera este una de neasteptat...O achizitie care isi merita banii 100%",
+        "category_aspect": [
+            {
+                "end": 185,
+                "text": "Rezistenta rotiilor este una buna, rulmentii sunt de o calitate superioara, iar comfortul si stabilitatea pe care o ofera este una de neasteptat...O achizitie care isi merita banii 100%",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Am fost consiliat ok pentru o piesa de schimb banda de alergat",
+        "category_aspect": [
+            {
+                "end": 62,
+                "text": "Am fost consiliat ok pentru o piesa de schimb banda de alergat",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Nu stiu sa inot nici in prezent si am folosit-o fara emotii in bazin cu adancime de 4 m. O recomand!",
+        "category_aspect": [
+            {
+                "end": 100,
+                "text": "Nu stiu sa inot nici in prezent si am folosit-o fara emotii in bazin cu adancime de 4 m. O recomand!",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Nu se gasesc la raft toate marimile dintr-un produs - de ex labe de inot care sunt articole de sezon; aceleasi labe de inot au afisate doua preturi diferite, la casa e marcat normal ca se incaseaza pretul cel mai mare",
+        "category_aspect": [
+            {
+                "end": 101,
+                "text": "Nu se gasesc la raft toate marimile dintr-un produs - de ex labe de inot care sunt articole de sezon;",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 217,
+                "text": "aceleasi labe de inot au afisate doua preturi diferite, la casa e marcat normal ca se incaseaza pretul cel mai mare",
+                "start": 102,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Personalul este foarte amabil, dar nu dispun de toate informatiile desi, tot din amabilitate, au incercat sa le afle. Concret vorbesc de disponibilitatea si modul de fixare al suportului copil pentru trotineta town 9.",
+        "category_aspect": [
+            {
+                "end": 29,
+                "text": "Personalul este foarte amabil",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 66,
+                "text": "nu dispun de toate informatiile",
+                "start": 35,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 116,
+                "text": "tot din amabilitate, au incercat sa le afle",
+                "start": 73,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Totul e ok in afara de faptul ca informatiile despre stoc nu sunt actualizate si nici chiar in magazin vanzatorii nu stiu tot timpul ce se gaseste pe stoc.Am avut nevoie de un costum de inot pentru copii, la Pitesti nu il aveau, l-am gasit la brasov. Au spus ca il trimit la Pitesti si ne suna. Nu ne-a mai sunat nimeni. DUpa cateva zile am sunat noi si am aflat ca il pusesera la vanzare.",
+        "category_aspect": [
+            {
+                "end": 389,
+                "text": "Am avut nevoie de un costum de inot pentru copii, la Pitesti nu il aveau, l-am gasit la brasov. Au spus ca il trimit la Pitesti si ne suna. Nu ne-a mai sunat nimeni. DUpa cateva zile am sunat noi si am aflat ca il pusesera la vanzare.",
+                "start": 155,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 154,
+                "text": "vanzatorii nu stiu tot timpul ce se gaseste pe stoc",
+                "start": 103,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 77,
+                "text": "informatiile despre stoc nu sunt actualizate",
+                "start": 33,
+                "labels": [
+                    "tech support"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Super personalul ...foarte bine preg\u0103tit si foarte amabili ...super !",
+        "category_aspect": [
+            {
+                "end": 69,
+                "text": "Super personalul ...foarte bine preg\u0103tit si foarte amabili ...super !",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "sa fie mai mult personal ca sa ii poti gasi mai usor si sa-i intrebi ce ai nevoie",
+        "category_aspect": [
+            {
+                "end": 81,
+                "text": "sa fie mai mult personal ca sa ii poti gasi mai usor si sa-i intrebi ce ai nevoie",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Sunte\u021bi de nota 10 dar as fi \u00eenc\u00e2ntat de o gama mai mare la nada de pescuit!",
+        "category_aspect": [
+            {
+                "end": 76,
+                "text": "as fi \u00eenc\u00e2ntat de o gama mai mare la nada de pescuit!",
+                "start": 23,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Este incaltamintea ideala pt. drumetii prin zapada. Recomanda celor care fac drumetii.",
+        "category_aspect": [
+            {
+                "end": 86,
+                "text": "Este incaltamintea ideala pt. drumetii prin zapada. Recomanda celor care fac drumetii.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Positive"
+    },
+    {
+        "body": "Am comandat online o bicicleta \u0219i nici dup\u0103 o s\u0103pt\u0103m\u00e2n\u0103 nu am primit-o",
+        "category_aspect": [
+            {
+                "end": 70,
+                "text": "Am comandat online o bicicleta \u0219i nici dup\u0103 o s\u0103pt\u0103m\u00e2n\u0103 nu am primit-o",
+                "start": 0,
+                "labels": [
+                    "delivery"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Un magazin \u00een care pot g\u0103si cu u\u0219urin\u021b\u0103 ce \u00eemi doresc.",
+        "category_aspect": [
+            {
+                "end": 54,
+                "text": "Un magazin \u00een care pot g\u0103si cu u\u0219urin\u021b\u0103 ce \u00eemi doresc.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 54,
+                "text": "Un magazin \u00een care pot g\u0103si cu u\u0219urin\u021b\u0103 ce \u00eemi doresc.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Nu am g\u0103sit m\u0103rimea feti\u021bei mele 128-134 decat la pu\u021bine modele de tricouri.",
+        "category_aspect": [
+            {
+                "end": 76,
+                "text": "Nu am g\u0103sit m\u0103rimea feti\u021bei mele 128-134 decat la pu\u021bine modele de tricouri.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "De calitate sunt multumita, insa as dori daca se poate sa avem posibilitatea de a alege intre cel putin doua firme de curierat fiindca Fan Courierul e sub orice critica in orice privinta, insa la nesimtire le-as acorda 5pcte. as dori sa mai comand de la Decathlon, dar nu prin Fan daca s-ar putea.",
+        "category_aspect": [
+            {
+                "end": 26,
+                "text": "De calitate sunt multumita",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            },
+            {
+                "end": 297,
+                "text": "as dori daca se poate sa avem posibilitatea de a alege intre cel putin doua firme de curierat fiindca Fan Courierul e sub orice critica in orice privinta, insa la nesimtire le-as acorda 5pcte. as dori sa mai comand de la Decathlon, dar nu prin Fan daca s-ar putea.",
+                "start": 33,
+                "labels": [
+                    "delivery"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "As vrea sa ajung\u0103 \u0219i tricourile puma de b\u0103rba\u021bi (cele la 34.99 cred )la magazinul din bacau",
+        "category_aspect": [
+            {
+                "end": 91,
+                "text": "As vrea sa ajung\u0103 \u0219i tricourile puma de b\u0103rba\u021bi (cele la 34.99 cred )la magazinul din bacau",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Daca mai merg pe pedale in picioare (cand urc spre exemplu, nu mereu) sunt probleme cu butucul pedalier.",
+        "category_aspect": [
+            {
+                "end": 104,
+                "text": "Daca mai merg pe pedale in picioare (cand urc spre exemplu, nu mereu) sunt probleme cu butucul pedalier.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Culoarele dintre randurile cu marfa aveau pe ele o gramada de paleti de lemn, dadea sezatia ca e  pe cale sa inchida, aspect neglijent plus ca daca nu erai f.atent aveai sansa sa-ti julesti picioarele in ele.",
+        "category_aspect": [
+            {
+                "end": 208,
+                "text": "Culoarele dintre randurile cu marfa aveau pe ele o gramada de paleti de lemn, dadea sezatia ca e pe cale sa inchida, aspect neglijent plus ca daca nu erai f.atent aveai sansa sa-ti julesti picioarele in ele.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Mai multe produse marca Columbia ar face sa vizitez mai des magazinul",
+        "category_aspect": [
+            {
+                "end": 69,
+                "text": "Mai multe produse marca Columbia ar face sa vizitez mai des magazinul",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "S-au rupt dupa vreo 2 luni si i-am folosit doar pentru alergat la banda.",
+        "category_aspect": [
+            {
+                "end": 72,
+                "text": "S-au rupt dupa vreo 2 luni si i-am folosit doar pentru alergat la banda.",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Coada imensa pentru facturare! Un singur angajat foarte stresat care se ocupa de raspuns la telefon, retururi, facturare, schimb de produse. Trist! Mi-era si mila de el! E greu sa mai angajati un om?!? Am ramas f dezamagit per total, inclusiv de noua aranjare in magazin. Haos! Abia astept sa vad noul magazin din Baneasa...",
+        "category_aspect": [
+            {
+                "end": 30,
+                "text": "Coada imensa pentru facturare!",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 140,
+                "text": "Un singur angajat foarte stresat care se ocupa de raspuns la telefon, retururi, facturare, schimb de produse.",
+                "start": 31,
+                "labels": [
+                    "staff availability"
+                ]
+            },
+            {
+                "end": 277,
+                "text": "Am ramas f dezamagit per total, inclusiv de noua aranjare in magazin. Haos!",
+                "start": 202,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "In cadrul raionului de incaltaminte pentru alergare nu erau disponibile modele de incaltaminte trail pentru femei.",
+        "category_aspect": [
+            {
+                "end": 114,
+                "text": "In cadrul raionului de incaltaminte pentru alergare nu erau disponibile modele de incaltaminte trail pentru femei.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "la cumpararea unui produs \"\"testat\"\" in magazin - singurul disponibil din acel model - nu s-a oferit nicvi o reducere!",
+        "category_aspect": [
+            {
+                "end": 118,
+                "text": "la cumpararea unui produs \"\"testat\"\" in magazin - singurul disponibil din acel model - nu s-a oferit nicvi o reducere!",
+                "start": 0,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Scrieti adevarul in primul rand si lasati pe altii sa vanda gogosi!!",
+        "category_aspect": [
+            {
+                "end": 68,
+                "text": "Scrieti adevarul in primul rand si lasati pe altii sa vanda gogosi!!",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "Sa existe mai multe cabine de proba situate in toate colturile magazinului (sau la capatul rafturilor). Sa fie muzica ambientala (acum specifica sarbatorilor). Sa fie monitoare cu prezentarea produselor. Sa fie anuntate promotiile,",
+        "category_aspect": [
+            {
+                "end": 103,
+                "text": "Sa existe mai multe cabine de proba situate in toate colturile magazinului (sau la capatul rafturilor).",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            },
+            {
+                "end": 159,
+                "text": "Sa fie muzica ambientala (acum specifica sarbatorilor).",
+                "start": 104,
+                "labels": [
+                    "environment"
+                ]
+            },
+            {
+                "end": 231,
+                "text": "Sa fie monitoare cu prezentarea produselor. Sa fie anuntate promotiile,",
+                "start": 160,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "La 2 din 6 produse nu a corespuns pre\u021bul de la raft... Unul a fost reglat \u00een sila celalalt returnat f\u0103r\u0103 explica\u021bii.",
+        "category_aspect": [
+            {
+                "end": 54,
+                "text": "La 2 din 6 produse nu a corespuns pre\u021bul de la raft...",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            },
+            {
+                "end": 116,
+                "text": "Unul a fost reglat \u00een sila celalalt returnat f\u0103r\u0103 explica\u021bii.",
+                "start": 55,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am ajuns la casa sa platim produsul doritPe culoarul pp era scris mare 39.90 taiat peste si pretul actual era 29.90.La casa scaneaza produsul si zice 39.90.Noi zicem :era redus.Suna..si intr-adevar era redus dar trebuia cea de casa sa bage reducerea.Era 9 seara.Toata ziua nu a mai cumparat nimeni acel produs? Ciudat.Daca nu esti atent ..?!Asa e la noi.",
+        "category_aspect": [
+            {
+                "end": 156,
+                "text": "Am ajuns la casa sa platim produsul doritPe culoarul pp era scris mare 39.90 taiat peste si pretul actual era 29.90.La casa scaneaza produsul si zice 39.90.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            },
+            {
+                "end": 250,
+                "text": "Suna..si intr-adevar era redus dar trebuia cea de casa sa bage reducerea.",
+                "start": 177,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Va rog sa diversificati gama de treninguri pentru femei. Nu am prea avut de unde sa aleg.",
+        "category_aspect": [
+            {
+                "end": 89,
+                "text": "Va rog sa diversificati gama de treninguri pentru femei. Nu am prea avut de unde sa aleg.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "In primul rand varietate mai mare a produselor. Adesea stocurile nu sunt reimprospatate suficient de repede, de ex la ultima vizita nu mai era nici o butelie de primus...inadmisibil din punctul meu de vedere pentru un astfel de magazin",
+        "category_aspect": [
+            {
+                "end": 47,
+                "text": "In primul rand varietate mai mare a produselor.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 235,
+                "text": "Adesea stocurile nu sunt reimprospatate suficient de repede, de ex la ultima vizita nu mai era nici o butelie de primus...inadmisibil din punctul meu de vedere pentru un astfel de magazin",
+                "start": 48,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "La marca proprie preturi accesibile,dar la cele de firma destul de piperate.",
+        "category_aspect": [
+            {
+                "end": 35,
+                "text": "La marca proprie preturi accesibile",
+                "start": 0,
+                "labels": [
+                    "price"
+                ]
+            },
+            {
+                "end": 75,
+                "text": "la cele de firma destul de piperate",
+                "start": 40,
+                "labels": [
+                    "price"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Buna seara,Am expediat un colet retur, prin Fan-Curier, in data de 22.01.2016. Va contactez la rubrica \"\"opinii\"\" pentru ca la mail-uri nu raspunde nimeni iar un contact telefonic e aproape imposibil de avut cu Decathlon-online !!  As dori ca problema sa se rezolve cat mai repede (plec din tzara).Cu multumiri, Georgeta",
+        "category_aspect": [
+            {
+                "end": 230,
+                "text": "Am expediat un colet retur, prin Fan-Curier, in data de 22.01.2016. Va contactez la rubrica \"\"opinii\"\" pentru ca la mail-uri nu raspunde nimeni iar un contact telefonic e aproape imposibil de avut cu Decathlon-online !!",
+                "start": 11,
+                "labels": [
+                    "return warranty"
+                ]
+            },
+            {
+                "end": 154,
+                "text": "la mail-uri nu raspunde nimeni",
+                "start": 124,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 154,
+                "text": "la mail-uri nu raspunde nimeni",
+                "start": 124,
+                "labels": [
+                    "staff availability"
+                ]
+            },
+            {
+                "end": 227,
+                "text": "un contact telefonic e aproape imposibil de avut cu Decathlon-online",
+                "start": 159,
+                "labels": [
+                    "tech support"
+                ]
+            },
+            {
+                "end": 230,
+                "text": "Am expediat un colet retur, prin Fan-Curier, in data de 22.01.2016. Va contactez la rubrica \"\"opinii\"\" pentru ca la mail-uri nu raspunde nimeni iar un contact telefonic e aproape imposibil de avut cu Decathlon-online !!",
+                "start": 11,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am avut o situa\u021bie neplacuta.,in sensul ca desi am ales un produs dintr-un raft cu cel pu\u021bin 30 de buc.cu pre\u021bul afi\u0219at,la casa am fost \u00eencasat cu o suma mai mare.Atunci c\u00e2nd am spus ca eu \u0219tiam de alt pret,r\u0103spunsul a fost ca nu am citit eu bine pre\u021bul sau am luat produsul din alt raft.Am achitat dup\u0103 care m-am deplasat la locul de unde am ales prod.Am solicitat celui care a \u00eencasat sa se deplaseze pana la raft,argumentandu-i pre\u021bul afisat si raftul cu produsul.R\u0103spunsul a fost \"\"daca mi-a\u021bi fi ar\u0103tat \u00eenainte de a factura as fi putut factura la pre\u021bul dorit de d-voastra.Domnilor aten\u021bie!!! P\u0103cat de investi\u021bie .Doresc sa corecta\u021bi asemenea situa\u021bi,ca atunci c\u00e2nd mergem la cump\u0103r\u0103turi in mag.d-voastra,sa mergem cu \u00eencrederea si fara disconfort.",
+        "category_aspect": [
+            {
+                "end": 163,
+                "text": "Am avut o situa\u021bie neplacuta.,in sensul ca desi am ales un produs dintr-un raft cu cel pu\u021bin 30 de buc.cu pre\u021bul afi\u0219at,la casa am fost \u00eencasat cu o suma mai mare.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            },
+            {
+                "end": 578,
+                "text": "Atunci c\u00e2nd am spus ca eu \u0219tiam de alt pret,r\u0103spunsul a fost ca nu am citit eu bine pre\u021bul sau am luat produsul din alt raft.Am achitat dup\u0103 care m-am deplasat la locul de unde am ales prod.Am solicitat celui care a \u00eencasat sa se deplaseze pana la raft,argumentandu-i pre\u021bul afisat si raftul cu produsul.R\u0103spunsul a fost \"\"daca mi-a\u021bi fi ar\u0103tat \u00eenainte de a factura as fi putut factura la pre\u021bul dorit de d-voastra.",
+                "start": 163,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 578,
+                "text": "Atunci c\u00e2nd am spus ca eu \u0219tiam de alt pret,r\u0103spunsul a fost ca nu am citit eu bine pre\u021bul sau am luat produsul din alt raft.Am achitat dup\u0103 care m-am deplasat la locul de unde am ales prod.Am solicitat celui care a \u00eencasat sa se deplaseze pana la raft,argumentandu-i pre\u021bul afisat si raftul cu produsul.R\u0103spunsul a fost \"\"daca mi-a\u021bi fi ar\u0103tat \u00eenainte de a factura as fi putut factura la pre\u021bul dorit de d-voastra.",
+                "start": 163,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Sa introduce\u0163i sunt \u00een magazin toate produsele care sunt pe site",
+        "category_aspect": [
+            {
+                "end": 64,
+                "text": "Sa introduce\u0163i sunt \u00een magazin toate produsele care sunt pe site",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Aveam nevoie de niste pantaloni pentru \"\"drumetie\"\" - foarte slaba oferta. Chiar am primit un email cu oferte ce includeau asemenea pantaloni, insa a doua zi, si apoi la vreo 3 zile dupa, acestia nu erau in magazin. Erau unii asemanatori pentru femei, desi in email nu era specificat nimic in sensul asta. Una peste alta - timp pierdut.",
+        "category_aspect": [
+            {
+                "end": 215,
+                "text": "Aveam nevoie de niste pantaloni pentru \"\"drumetie\"\" - foarte slaba oferta. Chiar am primit un email cu oferte ce includeau asemenea pantaloni, insa a doua zi, si apoi la vreo 3 zile dupa, acestia nu erau in magazin.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 305,
+                "text": "Chiar am primit un email cu oferte ce includeau asemenea pantaloni, insa a doua zi, si apoi la vreo 3 zile dupa, acestia nu erau in magazin. Erau unii asemanatori pentru femei, desi in email nu era specificat nimic in sensul asta.",
+                "start": 75,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am fost la Decathlon pentru a face intretinerea bicicletei. Nu am reusit sa gasesc nicio persoana care sa stie despre ce e vorba. Am vorbit cu 2 persoane, una de la fitness si una care nu avea niciun fel de ecuson (sau uniforma). Sunt nemultumit atat de interactiunea cu oamenii cat si de \"\"prestatia\"\" atelierului. Cu siguranta nu voi mai reveni in scopul acesta.",
+        "category_aspect": [
+            {
+                "end": 364,
+                "text": "Am fost la Decathlon pentru a face intretinerea bicicletei. Nu am reusit sa gasesc nicio persoana care sa stie despre ce e vorba. Am vorbit cu 2 persoane, una de la fitness si una care nu avea niciun fel de ecuson (sau uniforma). Sunt nemultumit atat de interactiunea cu oamenii cat si de \"\"prestatia\"\" atelierului. Cu siguranta nu voi mai reveni in scopul acesta.",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 315,
+                "text": "Nu am reusit sa gasesc nicio persoana care sa stie despre ce e vorba. Am vorbit cu 2 persoane, una de la fitness si una care nu avea niciun fel de ecuson (sau uniforma). Sunt nemultumit atat de interactiunea cu oamenii cat si de \"\"prestatia\"\" atelierului.",
+                "start": 60,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am dorit sa-mi achizitionez o bicicleta RR520 , lucru care l -am si facut , achizitie facuta cu toate accesoriile ptr bicicleta in cauza . Sa dovedit o alegere proasta , bicicleta fiind un fiasco . Dupa ce am asteptat o saptamana dupa un XL pe carel-am rezervat singur , am reusit sa-l cumpar ............ gresit . Cei de la departamentul ciclism au reglat bicicleta cum au putut mai bine si cum s-au priceput , dar s-a dovedit ca bicicleta avea defect de fabricatie . cu bunavointa domnului Ionut ,managerul departamentului ciclism , care a facut tot ce inseamna omeneste posibil sa plec cu bicicleta acasa ,dar fara rezultat , bicicleta dovedind ca nu vrea sa functioneze . In acest context am ramas si fara bicicleta si fara placerea de a face ciclism .Multumesc domnului Ionut ptr amabilitate , profesionalism , si dorinta de a nu ma lasa fara bicicleta , lundu-si singur sarcina de a rezolva cumva situatia . Toata stima ptr un astfel de om , de angajat al dvs . pe care va sugerez sa nu-l pierdeti . Sper cu tarie ca domnul Ionut sa-si respecte promisiunea de a-mi rezolva cu bicicleta , MULTUMINDU-I  INCA O DATA. Cu respect Victor Damian",
+        "category_aspect": [
+            {
+                "end": 197,
+                "text": "Sa dovedit o alegere proasta , bicicleta fiind un fiasco .",
+                "start": 139,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 409,
+                "text": "Cei de la departamentul ciclism au reglat bicicleta cum au putut mai bine si cum s-au priceput",
+                "start": 315,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 466,
+                "text": "dar s-a dovedit ca bicicleta avea defect de fabricatie",
+                "start": 412,
+                "labels": [
+                    "quality"
+                ]
+            },
+            {
+                "end": 409,
+                "text": "Cei de la departamentul ciclism au reglat bicicleta cum au putut mai bine si cum s-au priceput",
+                "start": 315,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 607,
+                "text": "cu bunavointa domnului Ionut ,managerul departamentului ciclism , care a facut tot ce inseamna omeneste posibil sa plec cu bicicleta acasa",
+                "start": 469,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 673,
+                "text": "bicicleta dovedind ca nu vrea sa functioneze",
+                "start": 629,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 1005,
+                "text": "Multumesc domnului Ionut ptr amabilitate , profesionalism , si dorinta de a nu ma lasa fara bicicleta , lundu-si singur sarcina de a rezolva cumva situatia . Toata stima ptr un astfel de om , de angajat al dvs . pe care va sugerez sa nu-l pierdeti .",
+                "start": 756,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive",
+            "Negative",
+            "Positive",
+            "Positive",
+            "Negative",
+            "Positive"
+        ]
+    },
+    {
+        "body": "La ultima vizita...dezamagire..totala...nimeni pe raioane..am vrut informatii despre unele produse..ioc..nu am avut pe cine sa intreb..am plecat si am cumparat din alta parte...pacat...",
+        "category_aspect": [
+            {
+                "end": 185,
+                "text": "La ultima vizita...dezamagire..totala...nimeni pe raioane..am vrut informatii despre unele produse..ioc..nu am avut pe cine sa intreb..am plecat si am cumparat din alta parte...pacat...",
+                "start": 0,
+                "labels": [
+                    "staff availability"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Un magazin ok Dar mai trebuie putin lucrat la produse si preturi",
+        "category_aspect": [
+            {
+                "end": 64,
+                "text": "mai trebuie putin lucrat la produse si preturi",
+                "start": 18,
+                "labels": [
+                    "price"
+                ]
+            },
+            {
+                "end": 64,
+                "text": "mai trebuie putin lucrat la produse si preturi",
+                "start": 18,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 64,
+                "text": "mai trebuie putin lucrat la produse si preturi",
+                "start": 18,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "nu este posibil sa stai sa astepti in telefon 44 de minute si tot sa NU raspunda nimeni....mi-am schimbat parerea despre aceasta companie.",
+        "category_aspect": [
+            {
+                "end": 138,
+                "text": "nu este posibil sa stai sa astepti in telefon 44 de minute si tot sa NU raspunda nimeni....mi-am schimbat parerea despre aceasta companie.",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Dupa un testing la munte la peste 2000 de metri, in care am trecut prin toate conditiile meteo posibile vara, am observat ca nu sunt impermeabili nici macar la roua de dimineata, aluneca pe suprafete ude: pietre, iarba, noroi, orice (eram sa imi rup gatul de cateva ori pe stanci). Protectia asigurata gleznei este pur formala, piciorul realizeaza pronatie/supinatie de parca ai fi in sosete, rosaturile erau de asteptat dar parca nu in asa hal (nu am fost salvat nici de sosetele speciale pentru trekking). Pe pamant drept, uscat sau beton sunt ok, dar nu pentru munte. Intre acest produs si altul din acest magazin la jumatate (sau mai putin de pret) nu am remarcat nicio diferenta (pe teren, nu in descriere) in afara de aspect, care chiar e unul placut. Par a fi o constructie destul de solida si probabil ar rezista daca ai fi dispus sa iti risti integritatea corporala pe munte cu ei in picioare pana s-ar rupe. Singurul aspect pozitiv il reprezinta acel \"\"Made in Romania\"\" si aspectul. Cumparati numai ca bocanci de oras!",
+        "category_aspect": [
+            {
+                "end": 507,
+                "text": "Dupa un testing la munte la peste 2000 de metri, in care am trecut prin toate conditiile meteo posibile vara, am observat ca nu sunt impermeabili nici macar la roua de dimineata, aluneca pe suprafete ude: pietre, iarba, noroi, orice (eram sa imi rup gatul de cateva ori pe stanci). Protectia asigurata gleznei este pur formala, piciorul realizeaza pronatie/supinatie de parca ai fi in sosete, rosaturile erau de asteptat dar parca nu in asa hal (nu am fost salvat nici de sosetele speciale pentru trekking).",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 548,
+                "text": "Pe pamant drept, uscat sau beton sunt ok",
+                "start": 508,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 756,
+                "text": "in afara de aspect, care chiar e unul placut",
+                "start": 712,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 993,
+                "text": "Singurul aspect pozitiv il reprezinta acel \"\"Made in Romania\"\" si aspectul.",
+                "start": 918,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Am pl\u0103tit mai mult decat am primit. Mi s-a promis c\u0103 voi fi contactat pentru livrarea produsului lipsa din comand\u0103 dar asta nu s-au \u00eent\u00e2mplat.",
+        "category_aspect": [
+            {
+                "end": 142,
+                "text": "Am pl\u0103tit mai mult decat am primit. Mi s-a promis c\u0103 voi fi contactat pentru livrarea produsului lipsa din comand\u0103 dar asta nu s-au \u00eent\u00e2mplat.",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Mai multe produse la b\u0103rba\u021bi. ..nu ave\u021bi jachete tip polar..anul acesta este cam gol",
+        "category_aspect": [
+            {
+                "end": 84,
+                "text": "Mai multe produse la b\u0103rba\u021bi. ..nu ave\u021bi jachete tip polar..anul acesta este cam gol",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Produsele lipsa la raionul sporturi de iarna. La raionul de ski, de la inceputul sezonului nu era marfa !!!!",
+        "category_aspect": [
+            {
+                "end": 108,
+                "text": "Produsele lipsa la raionul sporturi de iarna. La raionul de ski, de la inceputul sezonului nu era marfa !!!!",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "De multe ori se lungeste timpul de asteptare la casele de plata. Nu exista in magazin puncte de verificare a pretului, trebuie mereu sa cauti un angajat. Pana il gasesti disponibil, pana merge la un calculator, pana introduce codul produsului .... Te lipsesti. In rest, toate bune.",
+        "category_aspect": [
+            {
+                "end": 180,
+                "text": "Pana il gasesti disponibil",
+                "start": 154,
+                "labels": [
+                    "staff availability"
+                ]
+            },
+            {
+                "end": 242,
+                "text": "pana merge la un calculator, pana introduce codul produsului",
+                "start": 182,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 64,
+                "text": "De multe ori se lungeste timpul de asteptare la casele de plata.",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            },
+            {
+                "end": 153,
+                "text": "Nu exista in magazin puncte de verificare a pretului, trebuie mereu sa cauti un angajat.",
+                "start": 65,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "produsele cautate sint indisponibile intr-o varietate de numere in mod frecvent.",
+        "category_aspect": [
+            {
+                "end": 80,
+                "text": "produsele cautate sint indisponibile intr-o varietate de numere in mod frecvent.",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Calitatea unor produse este slaba (ex: incaltaminte). Ar putea fi o varietate mai mare de produse mergind pina la high quality chiar daca preturile vor fi mai mari.",
+        "category_aspect": [
+            {
+                "end": 53,
+                "text": "Calitatea unor produse este slaba (ex: incaltaminte).",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            },
+            {
+                "end": 164,
+                "text": "Ar putea fi o varietate mai mare de produse mergind pina la high quality chiar daca preturile vor fi mai mari.",
+                "start": 54,
+                "labels": [
+                    "shop diversity"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "am cumparat o pereche si am constatat anumite probleme1. Le lipseste cel putin o gaica pentru siret  in partea superioara, in dreptul gleznei fapt ce ii face sa nu ii poti strange perfect si sa blochezi calcaiul-glezna perfect in interior. Daca va uitati pe site-ul tecnica, nu exista nici un model cu o singura gaica superioara, majoritiatea au 2, respectiv 3 gaici2. Crampoanele talpii nu au contact perfect cu stanca/asfaltul pentru ca mai au o mica margine superioara. Din acest motiv, orice suprafata putin uda devine extrem de alunecoasa.3. Partea din fata neagra ar trebui sa fie din cauciuc, avand rol de protectie. Aici aceasta bucata este tot din piele nubuk, deci este doar de design, sa arate mai tehnici.Eu personal i-am returnat, problemele cu talpa si lipsa gaicii ii faceau necorespunzatori pentru mers pe munte.",
+        "category_aspect": [
+            {
+                "end": 828,
+                "text": "am cumparat o pereche si am constatat anumite probleme1. Le lipseste cel putin o gaica pentru siret in partea superioara, in dreptul gleznei fapt ce ii face sa nu ii poti strange perfect si sa blochezi calcaiul-glezna perfect in interior. Daca va uitati pe site-ul tecnica, nu exista nici un model cu o singura gaica superioara, majoritiatea au 2, respectiv 3 gaici2. Crampoanele talpii nu au contact perfect cu stanca/asfaltul pentru ca mai au o mica margine superioara. Din acest motiv, orice suprafata putin uda devine extrem de alunecoasa.3. Partea din fata neagra ar trebui sa fie din cauciuc, avand rol de protectie. Aici aceasta bucata este tot din piele nubuk, deci este doar de design, sa arate mai tehnici.Eu personal i-am returnat, problemele cu talpa si lipsa gaicii ii faceau necorespunzatori pentru mers pe munte.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Atitudine mai prietenoasa. Prezenta celor de la vanzari pe raion. Sa verifice existenta marfii si in depozit sau la alte magazine nu sa raspunda sec si deranjat ca nu avem...",
+        "category_aspect": [
+            {
+                "end": 26,
+                "text": "Atitudine mai prietenoasa.",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 65,
+                "text": "Prezenta celor de la vanzari pe raion.",
+                "start": 27,
+                "labels": [
+                    "staff availability"
+                ]
+            },
+            {
+                "end": 174,
+                "text": "Sa verifice existenta marfii si in depozit sau la alte magazine nu sa raspunda sec si deranjat ca nu avem...",
+                "start": 66,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am fost de curand cu un reglaj pentru bicicleta, desi termenul a fost respectat, calitatea lucrarii a lasat de dorit foarte mult, roata din spate nu a fost centrata cum trebuie, franele nu au fost reglate asa cum am semnalat. Momentan nu am timp sa revin cu ea sa vi-o pun in brate dar ma voi gandi de 2 ori inainte sa mai apelez la acest atelier (desi sunt in garantie).",
+        "category_aspect": [
+            {
+                "end": 371,
+                "text": "Am fost de curand cu un reglaj pentru bicicleta, desi termenul a fost respectat, calitatea lucrarii a lasat de dorit foarte mult, roata din spate nu a fost centrata cum trebuie, franele nu au fost reglate asa cum am semnalat. Momentan nu am timp sa revin cu ea sa vi-o pun in brate dar ma voi gandi de 2 ori inainte sa mai apelez la acest atelier (desi sunt in garantie).",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Dupa cele citite aici, am decis sa-i cumpar , desi produslul arata indoielnic si cum l-am vazut nu am avut incredere ca ar fi bun de ceva, dar citisem recomandarile si nu eram dispusa sa cheltui pe o pereche de ochelari, prea mult. Dupa prima  utilizare se aburesc, intra apa. Am citit instructiunile si le-am respectat. Nu am atins lentilele, totusi, a doua zi s-au aburit.",
+        "category_aspect": [
+            {
+                "end": 374,
+                "text": "Dupa cele citite aici, am decis sa-i cumpar , desi produslul arata indoielnic si cum l-am vazut nu am avut incredere ca ar fi bun de ceva, dar citisem recomandarile si nu eram dispusa sa cheltui pe o pereche de ochelari, prea mult. Dupa prima utilizare se aburesc, intra apa. Am citit instructiunile si le-am respectat. Nu am atins lentilele, totusi, a doua zi s-au aburit.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Am intrat in magazin si la raionul de vanatoare nu era nimeni ca de altfel nici la celelalte.Magazinul e un fel de bulevard, un haos , li se permite tuturor sa se plimbe cu trotineta prin magazin, trebuie sa te feresti sa nu te accidenteze cineva!Multi isi aduc copiiii ca sa se dea cu trotineta , lucru vcare li se permite si adultilor. Personal insuficient! La fiecare departament ar trebui sa fie macar un consilier ca sa te sfatuiasca sa faci cea mai buna alegere, deoarece ai vrea sa cumperi repede si ce e mai de calitate !",
+        "category_aspect": [
+            {
+                "end": 93,
+                "text": "Am intrat in magazin si la raionul de vanatoare nu era nimeni ca de altfel nici la celelalte.",
+                "start": 0,
+                "labels": [
+                    "staff availability"
+                ]
+            },
+            {
+                "end": 337,
+                "text": "Magazinul e un fel de bulevard, un haos , li se permite tuturor sa se plimbe cu trotineta prin magazin, trebuie sa te feresti sa nu te accidenteze cineva!Multi isi aduc copiiii ca sa se dea cu trotineta , lucru vcare li se permite si adultilor.",
+                "start": 93,
+                "labels": [
+                    "environment"
+                ]
+            },
+            {
+                "end": 359,
+                "text": "Personal insuficient!",
+                "start": 338,
+                "labels": [
+                    "staff availability"
+                ]
+            },
+            {
+                "end": 529,
+                "text": "La fiecare departament ar trebui sa fie macar un consilier ca sa te sfatuiasca sa faci cea mai buna alegere, deoarece ai vrea sa cumperi repede si ce e mai de calitate !",
+                "start": 360,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Am cumparat 2 perechi cei de culoare neagra, iar dupa ce sunt incaltati fac o cuta la exterior {materialul textil} destul de inestetica.Precizez ca cei de culoare albastra sunt perfecti si sunt acelasi numar.",
+        "category_aspect": [
+            {
+                "end": 136,
+                "text": "Am cumparat 2 perechi cei de culoare neagra, iar dupa ce sunt incaltati fac o cuta la exterior {materialul textil} destul de inestetica.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 208,
+                "text": "Precizez ca cei de culoare albastra sunt perfecti si sunt acelasi numar.",
+                "start": 136,
+                "labels": [
+                    "product"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive"
+        ]
+    },
+    {
+        "body": "foarte putine repere ...multe din ele neprezentate..saci de dormit care nu erau expusi..",
+        "category_aspect": [
+            {
+                "end": 88,
+                "text": "foarte putine repere ...multe din ele neprezentate..saci de dormit care nu erau expusi..",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Ofertele ar trebui sa fie ceva mai variate,mai multe promo\u021bii nu ar strica.",
+        "category_aspect": [
+            {
+                "end": 75,
+                "text": "Ofertele ar trebui sa fie ceva mai variate,mai multe promo\u021bii nu ar strica.",
+                "start": 0,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Aveti cel putin patru categorii de preturi, modele si calitate la pantalonii de munte. Parerea mea este ca ar fo fost normal sa fie toti in acelas raft.",
+        "category_aspect": [
+            {
+                "end": 152,
+                "text": "Aveti cel putin patru categorii de preturi, modele si calitate la pantalonii de munte. Parerea mea este ca ar fo fost normal sa fie toti in acelas raft.",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Dupa o serie de 3 bocanci Decathlon, care au vazut si mtb, si trasee montane (vf Negoiu e un exemplu), si mers zilnic cca 3kim prin bucuresti si au fost ok 2 sezoane, si rezistenti la apa, calitatea a scazut. Pe acestia i-am achizitionat la inceputul lui martie, si au vazut doar 2 ture usoare, prin padure (Prapastiile Zarnestilor - Cabana Curmatura) si in rest mers pe jos prin Herastrau, cam de 3x pe saptamana. Talpa e tocita 90% pe calcai si in zona pernutelor degetelor, iau apa dupa ce au suportat 20min ploaie, iau apa si daca ai calcat intrt-o balta mica (genul celor ce se formeaza langa trotuare). Interiorul s-a rupt in zona calcaiului, a aparut plasticul... Nu inteleg ce se intampla, pana acum furnizati echipament ieftin si bun. Inteleg ca sunt in zona 150-200ron, dar ma astept la o durata de viata de 2 sezoane. Bocancii de 5-600RON sunt scumpi, dar duc 4-5 sezoane, oarecum am asteptari realiste.",
+        "category_aspect": [
+            {
+                "end": 667,
+                "text": "Dupa o serie de 3 bocanci Decathlon, care au vazut si mtb, si trasee montane (vf Negoiu e un exemplu), si mers zilnic cca 3kim prin bucuresti si au fost ok 2 sezoane, si rezistenti la apa, calitatea a scazut. Pe acestia i-am achizitionat la inceputul lui martie, si au vazut doar 2 ture usoare, prin padure (Prapastiile Zarnestilor - Cabana Curmatura) si in rest mers pe jos prin Herastrau, cam de 3x pe saptamana. Talpa e tocita 90% pe calcai si in zona pernutelor degetelor, iau apa dupa ce au suportat 20min ploaie, iau apa si daca ai calcat intrt-o balta mica (genul celor ce se formeaza langa trotuare). Interiorul s-a rupt in zona calcaiului, a aparut plasticul",
+                "start": 0,
+                "labels": [
+                    "quality"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Raspunsul dat de personalul magazinului este ca nu se vand produsele de echitatie! Deoarece NU exista! La orice Decathlon din Europa exista un raion plin de produse pentru echitatie, iar in perioada de reduceri chiar se fac reduceri. In Romania, nu. Deci pentru produse de echitatie, NU veniti la Decathlon pentru ca pierdeti timpul de pomana!",
+        "category_aspect": [
+            {
+                "end": 102,
+                "text": "Raspunsul dat de personalul magazinului este ca nu se vand produsele de echitatie! Deoarece NU exista!",
+                "start": 0,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 249,
+                "text": "in perioada de reduceri chiar se fac reduceri. In Romania, nu.",
+                "start": 187,
+                "labels": [
+                    "promotions"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Placut impresionat datorita personalului.Se pot prezenta la raft produse mai diversificate (ca producator).Poate se face ceva si cu hotii din magazin. Noua ni s-a furat hanoracul baiatului in timp ce proba unele din produsele expuse.",
+        "category_aspect": [
+            {
+                "end": 40,
+                "text": "Placut impresionat datorita personalului",
+                "start": 0,
+                "labels": [
+                    "staff competency"
+                ]
+            },
+            {
+                "end": 107,
+                "text": "Se pot prezenta la raft produse mai diversificate (ca producator).",
+                "start": 41,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 233,
+                "text": "Poate se face ceva si cu hotii din magazin. Noua ni s-a furat hanoracul baiatului in timp ce proba unele din produsele expuse.",
+                "start": 107,
+                "labels": [
+                    "security"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "introduceti la raft mai multe detalii tehnice date de producator, pe fiecare produs in parte nu numai pe unele din eledescompletarea produselor ca marimi nu este acoperita in timp util pentru toti clientiinu exista in magazin toata varietatea de produse regasita pe site",
+        "category_aspect": [
+            {
+                "end": 270,
+                "text": "nu exista in magazin toata varietatea de produse regasita pe site",
+                "start": 205,
+                "labels": [
+                    "shop diversity"
+                ]
+            },
+            {
+                "end": 205,
+                "text": "introduceti la raft mai multe detalii tehnice date de producator, pe fiecare produs in parte nu numai pe unele din eledescompletarea produselor ca marimi nu este acoperita in timp util pentru toti clientii",
+                "start": 0,
+                "labels": [
+                    "shop organization"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "body": "Acum un an c\u00e2nd am fost la voi era altfel, acum sunt dezam\u0103git,  cu toate astea as recomanda. Poate am prins eu un moment prost.",
+        "category_aspect": [
+            {
+                "end": 128,
+                "text": "Acum un an c\u00e2nd am fost la voi era altfel, acum sunt dezam\u0103git, cu toate astea as recomanda. Poate am prins eu un moment prost.",
+                "start": 0,
+                "labels": [
+                    "misc"
+                ]
+            }
+        ],
+        "polarity_aspect": "Neutral"
+    },
+    {
+        "body": "Preturile desi TVA a scazut cu 4% erau ca inaintea scaderii TVA. Scaderea nu s-a reflectat in pret.",
+        "category_aspect": [
+            {
+                "end": 99,
+                "text": "Preturile desi TVA a scazut cu 4% erau ca inaintea scaderii TVA. Scaderea nu s-a reflectat in pret.",
+                "start": 0,
+                "labels": [
+                    "price"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Am fost inainte de revelion pentru a repara o pereche de skiuri si o placa de snowboard si mi-au spus ca va dura 4 zile. Dupa cateva negocieri, pentru ca noi plecam in a 4-a zi, au zis ca le fac in 3 zile. Am venit peste 3 zile si nu au fost terminate la timp. Mi-au spus sa revin dupa 2 ore. M-am intors si mi le-au dat. Am dat 120 lei, iar cand am ajuns pe partie, placa de snowboard nu aluneca deloc. Mi-au spus baietii de la inchirieri de la statiune ca si-au batut joc de placa si ca au pus un kilogram de ceara si nici nu l-au netezit.Cu siguranta nu voi mai repara echipamentele de ski la decathlon.",
+        "category_aspect": [
+            {
+                "end": 606,
+                "text": "Am fost inainte de revelion pentru a repara o pereche de skiuri si o placa de snowboard si mi-au spus ca va dura 4 zile. Dupa cateva negocieri, pentru ca noi plecam in a 4-a zi, au zis ca le fac in 3 zile. Am venit peste 3 zile si nu au fost terminate la timp. Mi-au spus sa revin dupa 2 ore. M-am intors si mi le-au dat. Am dat 120 lei, iar cand am ajuns pe partie, placa de snowboard nu aluneca deloc. Mi-au spus baietii de la inchirieri de la statiune ca si-au batut joc de placa si ca au pus un kilogram de ceara si nici nu l-au netezit.Cu siguranta nu voi mai repara echipamentele de ski la decathlon.",
+                "start": 0,
+                "labels": [
+                    "service"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Am cumparat un produs care avea un pret la raft si la casa am fost taxat cu un pret mai mare. Am observat imediat greseala si personalul a fost amabil sa verifice si sa remedieze greseala. Pana la urma am platit pretul corect, cel afisat la raft.",
+        "category_aspect": [
+            {
+                "end": 93,
+                "text": "Am cumparat un produs care avea un pret la raft si la casa am fost taxat cu un pret mai mare.",
+                "start": 0,
+                "labels": [
+                    "price"
+                ]
+            },
+            {
+                "end": 187,
+                "text": "personalul a fost amabil sa verifice si sa remedieze greseala",
+                "start": 126,
+                "labels": [
+                    "staff competency"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Negative",
+            "Positive"
+        ]
+    },
+    {
+        "body": "Stocurile online nu sunt niciodata corecte !!! Facem drumuri degeaba la magazine !!",
+        "category_aspect": [
+            {
+                "end": 46,
+                "text": "Stocurile online nu sunt niciodata corecte !!!",
+                "start": 0,
+                "labels": [
+                    "tech support"
+                ]
+            }
+        ],
+        "polarity_aspect": "Negative"
+    },
+    {
+        "body": "Produsul comandat este OK.dar firma de curierat --Fan Curier--jalnic.Recomand schimbarea lor.",
+        "category_aspect": [
+            {
+                "end": 26,
+                "text": "Produsul comandat este OK.",
+                "start": 0,
+                "labels": [
+                    "product"
+                ]
+            },
+            {
+                "end": 69,
+                "text": "dar firma de curierat --Fan Curier--jalnic.",
+                "start": 26,
+                "labels": [
+                    "delivery"
+                ]
+            }
+        ],
+        "polarity_aspect": [
+            "Positive",
+            "Negative"
+        ]
+    }
+]
